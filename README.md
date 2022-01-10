@@ -16,4 +16,6 @@ If you want to use environment variables:-
 And you are good to make the code easily work for you.
 
 ### Preview and Demo
+Click on the image below to check out the demo video 👇
+
 [![Team Seas Achievement Bot](https://i.ibb.co/7RS5J4h/Screenshot-2022-01-10-at-2-29-32-PM.png)](https://youtu.be/v_My9s7opRU)
